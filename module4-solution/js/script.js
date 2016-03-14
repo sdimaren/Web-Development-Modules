@@ -60,6 +60,7 @@ var switchMenuToActive = function () {
   }
 };
 
+
 // On page load (before images or CSS)
 document.addEventListener("DOMContentLoaded", function (event) {
   
